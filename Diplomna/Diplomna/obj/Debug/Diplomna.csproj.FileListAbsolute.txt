@@ -1,0 +1,103 @@
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\ApplicationInsights.config
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\csc.exe
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\System.Collections.Immutable.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\System.Reflection.Metadata.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\vbc.exe
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe.config
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Diplomna.dll.config
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Diplomna.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Diplomna.pdb
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.Web.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.Web.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\obj\Debug\Diplomna.csprojResolveAssemblyReference.cache
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\obj\Debug\Diplomna.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\obj\Debug\Diplomna.pdb
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\AjaxControlToolkit.dll
+E:\Denis\Дипломна\Web\Diplomna\Diplomna\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\ApplicationInsights.config
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\csc.exe
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\System.Collections.Immutable.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\System.Reflection.Metadata.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\vbc.exe
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe.config
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.dll.config
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.pdb
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\AjaxControlToolkit.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Web.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Web.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.csprojResolveAssemblyReference.cache
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.dll
+E:\Denis\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.pdb
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\ApplicationInsights.config
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\csc.exe
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\System.Collections.Immutable.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\System.Reflection.Metadata.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\vbc.exe
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\roslyn\VBCSCompiler.exe.config
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.dll.config
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Diplomna.pdb
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\AjaxControlToolkit.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Web.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.DependencyCollector.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.Web.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.AI.WindowsServer.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.ApplicationInsights.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.csprojResolveAssemblyReference.cache
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.dll
+E:\Denis\Bachelor\4 курс сем 8\Diplomna\Diplomna\obj\Debug\Diplomna.pdb

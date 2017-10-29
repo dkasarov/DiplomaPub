@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Diplomna.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%: Page.Title %> - Дипломна работа</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+	<link rel="stylesheet" href="styles/design.css" type="text/css" />
+    <script type="text/javascript" src="js/jquery-3.2.0.min"></script>
+    <link id="logo1" runat="server" rel="shortcut icon" href="~/images/car-32.ico" type="text/x-icon"/>
+</head>
+<body>
+	<form id="form1" runat="server">
+		<div id="header">
+            <div id="logo">&nbsp;</div>
+			<div id="CompanyLogos">
+                <div style="margin-left: 40%; margin-top: 1%;">
+                    <asp:DataList ID="DataList1" runat="server">
+                        <ItemTemplate>
+                            <asp:HyperLink ID="HyperLink2" runat="server" ToolTip='<%# Bind("Name") %>' NavigateUrl='<%# Eval("WebAddress") %>' Target="_blank">
+                                <asp:Image ID="Image1" CssClass="CompaniesLogo" AlternateText='<%# Bind("Name") %>' runat="server" Width="24px" ImageUrl='<%# "data:Image/png;base64," + Convert.ToBase64String((byte[])Eval("Logo")) %>'/>
+                            </asp:HyperLink>
+                        </ItemTemplate>
+                    </asp:DataList>
+                </div>
+                
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Admin/Login.aspx">&nbsp;</asp:HyperLink>
+                <div id="welcomeBox">
+                    <asp:Label ID="welcomeLabel" runat="server" Font-Size="Small"></asp:Label><br />
+                    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Admin/Default.aspx" Visible="False">Админ панел</asp:HyperLink>
+                    <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Admin/Settings.aspx" Visible="false">Настройки</asp:HyperLink>
+                    <asp:Button ID="ButtonLogOut" runat="server" Text="Изход" OnClick="ButtonLogOut_Click1" Visible="false" />
+                </div>
+                
+			</div>
+		</div>
+		<div id="menu">
+			<ul>
+				<li><asp:HyperLink runat="server" id="calculator" NavigateUrl="~/Default.aspx">Калкулатор</asp:HyperLink></li>
+				<li><asp:HyperLink runat="server" id="literature" NavigateUrl="~/Casco.aspx">Какво е автокаско?</asp:HyperLink></li>
+				<li><asp:HyperLink runat="server" id="message" NavigateUrl="~/Contact.aspx">Контакти</asp:HyperLink></li>
+			</ul>
+		</div>
+		<div id="body">
+			<div id="middle">
+				<div id="content">
+					<asp:ContentPlaceHolder ID="Content" runat="server"></asp:ContentPlaceHolder>
+				</div>
+			</div>
+			<div id="footer">
+				<i>Всички права запазени - Калкулатор Автокаско &copy;</i>
+			</div>
+		</div>
+    
+	</form>
+	
+	
+</body>
+</html>
