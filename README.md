@@ -2,7 +2,8 @@
 Diploma of Bachelor's degree
 
 To run app follow next steps:
-1. db.sql - Create tables and stored procedures in MS SQL Server
-2. Diplomna.bak - Fill data in DB named 'Diplomna'
-3. Edit connection string in Diplomna/Diplomna/Web.config with your information
-4. Open project in Visual Studio and run solution
+1. Diplomna.bak - Create Database in MS SQL SERVER
+2. Edit connection string in Diplomna/Diplomna/Web.config with your information
+3. Open project in Visual Studio and run solution
+
+File db.sql is script for creating tables and stored procedures
